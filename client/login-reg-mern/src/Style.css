@@ -1,0 +1,18 @@
+@import url('https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css');
+
+label {
+    font-size: 18px;
+    margin-right: 1rem;
+}
+
+input {
+    border-radius: 8px;
+    border: 1px solid green;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+input:focus{
+    /* border: 1px solid darkgreen; */
+    border: none;
+}
